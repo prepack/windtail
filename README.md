@@ -29,13 +29,11 @@ For usage in your sites, just include stylesheet in your `<head>` tag.
 Use CDN for effective loading and caching, for example [raw.githack.com](https://raw.githack.com), [jsdelivr.com](https://www.jsdelivr.com) or [unpkg.com](https://unpkg.com).
 
 ```html
-<link rel="stylesheet" href="https://raw.githack.com/f00b4r/windtail/master/dist/tailwind.css">
-<link rel="stylesheet" href="https://raw.githack.com/f00b4r/windtail/master/dist/tailwind.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/prepack/windtail/dist/tailwind.css">
+<link rel="stylesheet" href="https://raw.githack.com/prepack/windtail/master/dist/tailwind.min.css">
 ```
 
 ## Development
-
-See [how to contribute](https://contributte.org/contributing.html) to this package.
 
 This package is currently maintained by these authors.
 
